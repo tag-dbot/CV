@@ -67,8 +67,8 @@
 - Leadership of a small cybersecurity team
 	
 ### Main areas of experience
-- ECommerce (3.5 years)
-- Fintech (6 months)
+- ECommerce (Since 2020)
+- Fintech (1 year)
 
 
 ### Completed certifications
