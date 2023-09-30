@@ -1,57 +1,28 @@
-### Platform's I've developed for
-- Windows
-- Linux
-- Docker
-- Kubernetes
-- Microsoft Azure
-	
-### Operating Systems I've worked on
-- Windows
-- Linux
+# >whoami
+### Software developer with experience in automating and improving core business processes and development of custom software solutions.  
+### Solutions Architect with experience in designing complex event-driven, pub-sub, ETL and custom software solutions.  
+### I have a passion for learning, and designing and developing efficient and resilient solutions for complex business needs.  
+  
+### My main areas of interest are:
+- Solution Architecture
+- Software Development
+- Cybersecurity & Cryptography
+- Mathematics & Algorithmics
+- AI.
+- Cost & Performance optimization
 
-### Languages and frameworks I've worked with
-- .NET (C#)
-- Blazor/Razor (C#)
-- Java
-- Kotlin
-- TypeScript
-- Angular
-	
-### Databases I've worked with
-- T-SQL
-- MySQL
-- PostgreSQL
-- CosmosDB
-- MongoDB
 
-### Protocols I've worked with
-- GraphQL
-- gRPC
-- (S)FTP
-- REST
-- SOAP
-- SMTP(S)
+# About my work
+### Main Qualities
+- Independent and quick learner
+- Strong software development skills
+- Strong debugging and troubleshooting skills
+- Strong performance optimization skills
+- Strong mentoring skills
+- Good leadership skills
 
-### Source control technologies I've worked with
-- Git
-- Team Foundation Version Control
-	
-### Misc technologies I've worked with	
-- Redis
-- Kubernetes
-- Docker
-- Multiple Azure Services
-- SQL Server Integration Services (SSIS)
-- Microsoft BizTalk Server
-- Visual Studio Team Foundation Server (TFS)
-- Azure DevOps Server
-- Github
-- Jira
-	
 
-### Misc Experience
-- Agile/Scrum
-- CI/CD
+### Things I've done
 - Stock Management Systems design, development and maintenance
 - Event Driven Systems design, development and maintenance
 - Custom Data Integration & Processing solutions design, development and maintenance
@@ -65,7 +36,76 @@
 - Salesforce Marketing Cloud Integration
 - Leadership of small development teams
 - Leadership of a small cybersecurity team
+- Agile/Scrum
+- CI/CD flows
+
+
+### Things I like doing
+- Learning
+- Teaching
+- Designing solutions
+- Developing solutions
+- Leading teams
+- Creating simple solutions for complex problems
+
+
+### Platform's I've developed for
+- Windows
+- Linux
+- Docker
+- Kubernetes
+- Microsoft Azure
 	
+	
+### Operating Systems I've worked on
+- Windows
+- Linux
+
+
+### Languages and frameworks I've worked with
+- .NET (C#)
+- Blazor/Razor (C#)
+- Java
+- Kotlin
+- TypeScript
+- Angular
+	
+	
+### Databases I've worked with
+- T-SQL
+- MySQL
+- PostgreSQL
+- CosmosDB
+- MongoDB
+
+
+### Protocols I've worked with
+- GraphQL
+- gRPC
+- (S)FTP
+- REST
+- SOAP
+- SMTP(S)
+
+
+### Source control technologies I've worked with
+- Git
+- Team Foundation Version Control
+	
+	
+### Misc technologies I've worked with	
+- Redis
+- Kubernetes
+- Docker
+- Multiple Azure Services
+- SQL Server Integration Services (SSIS)
+- Microsoft BizTalk Server
+- Visual Studio Team Foundation Server (TFS)
+- Azure DevOps Server
+- Github
+- Jira
+
+
 ### Main areas of experience
 - ECommerce (Since 2020)
 - Fintech (1 year)
@@ -76,24 +116,11 @@
 - Conscious communication
 - AZ204 - Azure Developer Associate
 
+
 ### Certifications I want to complete
 - AZ104
 - AZ500
 - OSCP
 - Other cybersecurity, system architecture, or development related certifications
 
-### Main Interests
-- Software Development
-- Software & Solution Architecture
-- Cybersecurity & Cryptography
-- Mathematics & Algorithmics
-- AI
-- Cost and Performance optimization
-	
-### Main Qualities
-- Independent and quick learner
-- Strong software development skills
-- Strong debugging and troubleshooting skills
-- Strong performance optimization skills
-- Strong mentoring skills
-- Good leadership skills
+
