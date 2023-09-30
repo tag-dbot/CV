@@ -1,4 +1,6 @@
 # >whoami
+**An eternal learner, with a hacker mindset and a passion for building things**
+
 **Software developer with experience in automating and improving core business processes and development of custom software solutions.**
 
 **Solutions Architect with experience in designing complex event-driven, pub-sub, ETL and custom software solutions.**
