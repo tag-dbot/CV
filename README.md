@@ -46,10 +46,10 @@ You can contact me at tag_dbot@proton.me
 
 
 ### Things I like doing
-- Learning
-- Teaching
-- Designing solutions
-- Developing solutions
+- Learning by myself, or with others
+- Teaching and mentoring others
+- Designing software solutions
+- Developing software solutions
 - Leading teams
 - Creating simple solutions for complex problems
 
