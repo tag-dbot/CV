@@ -11,6 +11,8 @@
 - AI.
 - Cost & Performance optimization
 
+# Contact info
+You can contact me at tag_dbot@proton.me
 
 # About my work
 ### Main Qualities
