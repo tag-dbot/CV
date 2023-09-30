@@ -1,7 +1,7 @@
 # >whoami
 **An eternal learner, with a hacker mindset and a passion for building things.**
 
-**Curious tinkerer, with a knack for finding bugs.*
+**Curious tinkerer, with a knack for finding bugs.**
 
 **Software developer with experience in automating and improving core business processes and development of custom software solutions.**
 
