@@ -29,6 +29,7 @@ You can contact me at tag_dbot@proton.me
 ### Things I've done
 - Stock Management Systems design, development and maintenance
 - Event Driven Systems design, development and maintenance
+- PubSub Systems design, development and maintenance
 - Custom Data Integration & Processing solutions design, development and maintenance
 - Custom software design, development and maintenance
 - Performance optimization of legacy systems
