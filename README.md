@@ -58,7 +58,7 @@ You can contact me at tag_dbot@proton.me
 - Creating simple solutions for complex problems
 
 
-### Platform's I've developed for
+### Platforms I've developed for
 - Windows
 - Linux
 - Docker
