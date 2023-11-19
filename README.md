@@ -100,9 +100,16 @@ You can contact me at tag_dbot@proton.me
 ### Source control technologies I've worked with
 - Git
 - Team Foundation Version Control
+
+
+### Messaging / Streaming technologies I've worked with
+- RabbitMQ
+- Azure EventHubs
+- Azure Service Bus
+- Kafka
+ 
 	
-	
-### Misc technologies I've worked with	
+### Misc technologies I've worked with
 - Redis
 - Kubernetes
 - Docker
