@@ -94,8 +94,9 @@ You can contact me at tag_dbot@proton.me
 
 
 ### Languages and frameworks I've worked with
-- .NET (C#)
-- Blazor/Razor (C#)
+- .NET (C#) (multiple versions of .NET framework, .net core, and .NET)
+- ASPNET (C#) (multiple versions)
+- Blazor/Razor (C#) (multiple versions)
 - Java
 - Kotlin
 - TypeScript
