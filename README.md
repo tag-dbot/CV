@@ -3,19 +3,20 @@
 
 **Curious tinkerer, with a knack for finding bugs.**
 
-**Software developer with experience in automating and improving core business processes and development of custom software solutions.**
+**Software Developer with experience in automating and improving core business processes and development of custom software solutions.**
 
 **Solutions Architect with experience in designing complex event-driven, pub-sub, ETL and custom software solutions.**
 
 **Passionate about learning things, understanding complex systems, and designing and developing efficient and resilient solutions for complex business needs.**
   
-**Main areas of interest are:**
+**Main interests are:**
 - Solution Architecture
 - Software Development
 - Cybersecurity & Cryptography
 - Mathematics & Algorithmics
 - AI
 - Cost & Performance optimization
+
 
 # Contact info
 You can contact me at tag_dbot@proton.me
@@ -67,11 +68,12 @@ You can contact me at tag_dbot@proton.me
 
 
 ### Things I like doing
-- Learning by myself, or with others
+- Learning
 - Teaching and mentoring others
 - Designing software solutions
 - Developing software solutions
 - Leading teams
+- Discussing technical topics
 - Creating simple solutions for complex problems
 
 
