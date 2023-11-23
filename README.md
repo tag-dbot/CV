@@ -31,7 +31,7 @@ You can contact me at tag_dbot@proton.me
 
 
 ### Impact I've had
-- At the largest portuguese eCommerce website (continente.pt, and also wells.pt and zu.pt):
+- As a consultant at the largest portuguese eCommerce website (continente.pt, and also wells.pt and zu.pt):
   - Helped design part of, and was lead developer and maintainer of the Stock Management System, processing and generating >3 million events daily, without major issues, since 2021 
   - Helped develop and maintain the system responsible for handling customer data, including but not limited to: consents, optins, profile, and billing information.
   - Designed, and helped develop a major migration and replatforming of the legacy system referenced above, splitting its responsabilities in a new microservices based architecture.
