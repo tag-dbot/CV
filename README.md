@@ -35,9 +35,10 @@ You can contact me at tag_dbot@proton.me
 - As a consultant at the largest portuguese eCommerce website (continente.pt, and also wells.pt and zu.pt):
   - Lead developer, maintainer, and responsible for designing new features of the cloud-based Stock Management System, processing and generating >3 million events daily, without major issues, since 2021. 
   - Helped develop and maintain the cloud-based system responsible for handling customer data, including but not limited to: consents, optins, profile, and billing information.
-  - Designed and led the development of a major migration and replatforming of the legacy cloud-based system referenced above, splitting its responsabilities in a new cloud-based microservices based architecture, improving resiliency, performance, observability, and cutting infrastructure costs by ~40%.
+  - Designed and led the development of a major migration and replatforming of the legacy cloud-based system referenced above, splitting its responsabilities in a new cloud-based microservices based architecture, improving resiliency, performance, observability, and cutting operational expenditures by ~40%.
   - Designed and led the development of a major migration and replatforming of the legacy on-prem ETL system responsible for multiple core business flows, including but not limited to: order, payment, and invoice management; to a new on-prem/cloud hybrid microservices messaging based architecture, improving resiliency, performance, observability, and saving on all previous licensing costs (hundreds of thousands of €).
   - Designed and led the development of a major migration and replatforming of the legacy on-prem ETL system responsible for all product, price, and promotion data processing, to a new on-prem microservices based architecture.
+  - Designed and led the development of a major migration and replatforming of a legacy API and ETL flow, responsible for metrics related to customer's purchasing habits.
   - Designed, developed, documented, gave support to, and maintained a logging SDK used internally by multiple teams company-wide to send logs to an internal logging ingestion system, responsible for (at least) 70% (~17 million logs) of all daily logs in the logging system, accelerating the change to the new logging system.
   - Designed, developed, documented, gave support to, and maintained an authentication/authorization SDK used internally by teams to add SAML Authnz flows to internal applications, accelerating the adoption of the new authentication system.
   - Designed a major migration and replatforming of the legacy on-prem image distribution network to a new cloud-based solution, improving performance and simplifying the existing flow.
@@ -49,6 +50,10 @@ You can contact me at tag_dbot@proton.me
  
 
 ### Things I've done
+- Salesforce Commerce Cloud Integration
+- Salesforce Marketing Cloud Integration
+- Leadership of small development teams
+- Leadership of a small cybersecurity team
 - Stock Management Systems design, development and maintenance
 - Event Driven Systems design, development and maintenance
 - PubSub Systems design, development and maintenance
@@ -59,10 +64,8 @@ You can contact me at tag_dbot@proton.me
 - Microsoft Office365 services Integration
 - Oracle Access Management Integration
 - Okta Integration 
-- Salesforce Commerce Cloud Integration
-- Salesforce Marketing Cloud Integration
-- Leadership of small development teams
-- Leadership of a small cybersecurity team
+- Major migrations, refactorings, replatformings
+- Major data migrations, including ones needing purpose-built ETL tools 
 - Agile/Scrum
 - CI/CD flows
 
