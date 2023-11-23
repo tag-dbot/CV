@@ -32,17 +32,17 @@ You can contact me at tag_dbot@proton.me
 
 ### Impact I've had
 - As a consultant at the largest portuguese eCommerce website (continente.pt, and also wells.pt and zu.pt):
-  - Lead developer, maintainer, and responsible for designing new features of the Stock Management System, processing and generating >3 million events daily, without major issues, since 2021 
+  - Lead developer, maintainer, and responsible for designing new features of the Stock Management System, processing and generating >3 million events daily, without major issues, since 2021. 
   - Helped develop and maintain the system responsible for handling customer data, including but not limited to: consents, optins, profile, and billing information.
-  - Designed, and helped develop a major migration and replatforming of the legacy system referenced above, splitting its responsabilities in a new microservices based architecture.
-  - Designed, and helped develop a major migration and replatforming of the legacy ETL system responsible for multiple core business flows, including but not limited to: order, payment and invoice management; to a new microservices messaging based architecture. 
-  - Designed, and helped develop a major migration and replatforming of the legacy ETL system responsible for all product, price, and promotion data processing, to a new microservices based architecture.
+  - Designed and helped develop a major migration and replatforming of the legacy system referenced above, splitting its responsabilities in a new microservices based architecture.
+  - Designed and helped develop a major migration and replatforming of the legacy ETL system responsible for multiple core business flows, including but not limited to: order, payment, and invoice management; to a new microservices messaging based architecture. 
+  - Designed and helped develop a major migration and replatforming of the legacy ETL system responsible for all product, price, and promotion data processing, to a new microservices based architecture.
   - Designed, developed, documented, gave support to, and maintained a logging SDK used internally by multiple teams company-wide to send logs to an internal logging ingestion system, responsible for (at least) 70% (~17 million logs) of all daily logs in the logging system, accelerating the change to the new logging system.
   - Designed, developed, documented, gave support to, and maintained an authentication/authorization SDK used internally by teams to add SAML Authnz flows to internal applications, accelerating the adoption of the new authentication system.
 - At my current employer
-  - Created and led a (small) CyberSecurity team, creating secure processes and guidelines for the entire company to follow, helping other areas of the company and other developers increase the security and robustness of the developments
-  - Mentored multiple colleagues, helping them grow to a more senior position
-  - Designed an event driven near-real-time cybersecurity vulnerability monitoring and alert system, designed to alert users of new vulnerabilities (registered in cve.mitre, nist, or other sources) that match user-defined filters (affected technology, minimum severity, etc.)
+  - Created and led a small CyberSecurity team, creating secure processes and guidelines for the entire company to follow, helping other areas of the company and other developers increase the security and robustness of the developments.
+  - Mentored multiple colleagues, helping them grow to a more senior position.
+  - Designed an event driven near-real-time cybersecurity vulnerability monitoring and alert system, designed to alert users of new vulnerabilities (registered in cve.mitre, nist, or other sources) that match user-defined filters (affected technology, minimum severity, etc.).
  
 
 ### Things I've done
@@ -52,7 +52,7 @@ You can contact me at tag_dbot@proton.me
 - Custom Data Integration & Processing solutions design, development and maintenance
 - Custom software design, development and maintenance
 - Performance optimization of legacy systems
-- Design and Development of internal Libraries, Frameworks, and Software Development Kits (SDKs) to accelerate development and delivering speed.
+- Design and Development of internal Libraries, Frameworks, and Software Development Kits (SDKs) to accelerate development and delivering speed
 - Microsoft Office365 services Integration
 - Oracle Access Management Integration
 - Okta Integration 
