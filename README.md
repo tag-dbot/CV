@@ -39,9 +39,9 @@ You can contact me at tag_dbot@proton.me
   - Designed and helped develop a major migration and replatforming of the legacy on-prem ETL system responsible for all product, price, and promotion data processing, to a new on-prem microservices based architecture.
   - Designed, developed, documented, gave support to, and maintained a logging SDK used internally by multiple teams company-wide to send logs to an internal logging ingestion system, responsible for (at least) 70% (~17 million logs) of all daily logs in the logging system, accelerating the change to the new logging system.
   - Designed, developed, documented, gave support to, and maintained an authentication/authorization SDK used internally by teams to add SAML Authnz flows to internal applications, accelerating the adoption of the new authentication system.
-  - Designed a major migration and replatforming of the legacy on-prem image distribution network to a new cloud-based solution.
-  - Led small development teams through multiple projects.
-- At my current employer
+  - Designed a major migration and replatforming of the legacy on-prem image distribution network to a new cloud-based solution, improving performance and simplifying the existing flow.
+  - Led small development teams in multiple projects.
+- At my current employer:
   - Created and led a small CyberSecurity team, creating secure processes and guidelines for the entire company to follow, helping other areas of the company and other developers increase the security and robustness of the developments.
   - Mentored multiple colleagues, helping them grow to a more senior position.
   - Designed an event driven near-real-time cybersecurity vulnerability monitoring and alert system, designed to alert users of new vulnerabilities (registered in cve.mitre, nist, or other sources) that match user-defined filters (affected technology, minimum severity, etc.).
