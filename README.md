@@ -67,7 +67,9 @@ You can contact me at tag_dbot@proton.me
 - Oracle Access Management Integration
 - Okta Integration 
 - Major migrations, refactorings, replatformings
-- Major data migrations, including ones needing purpose-built ETL tools 
+- Major data migrations, including ones needing purpose-built ETL tools
+- Designed and developed multiple APIs (.NET stack)
+- Designed and developed multiple background jobs (.NET stack)
 - Agile/Scrum
 - CI/CD flows
 
