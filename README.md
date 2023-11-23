@@ -45,7 +45,8 @@ You can contact me at tag_dbot@proton.me
   - Led small development teams in multiple projects.
   - Advocated for and helped the improvement of observability, traceability, and logging across multiple teams, by creating code accelerators, guidelines, knowledge sharing and mentoring. 
 - At my current employer:
-  - Created and led a small CyberSecurity team, creating secure processes and guidelines for the entire company to follow, helping other areas of the company and other developers increase the security and robustness of the developments.
+  - Part of the core Technical Area, helping shape the company's technical vision, reporting to the CTO.
+  - Created and led a small CyberSecurity team, creating secure processes and guidelines for the entire company to follow.
   - Mentored multiple colleagues, helping them grow to a more senior position.
   - Designed an event driven near-real-time cybersecurity vulnerability monitoring and alert system, designed to alert users of new vulnerabilities (registered in cve.mitre, nist, or other sources) that match user-defined filters (affected technology, minimum severity, etc.).
  
