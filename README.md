@@ -29,6 +29,7 @@ You can contact me at tag_dbot@proton.me
 - Strong performance optimization skills
 - Strong mentoring skills
 - Good leadership skills
+- Advocate for good software development, resilience, logging, and observability practices
 
 
 ### Impact I've had
