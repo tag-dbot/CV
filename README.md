@@ -3,9 +3,12 @@
 
 **Curious tinkerer, with a knack for finding bugs.**
 
-**Software Developer with experience in automating and improving core business processes and development of custom software solutions.**
+**Tech Lead with experience in leading development teams through challenging projects, sharing a common technical vision and leading by example**
 
 **Solutions Architect with experience in designing complex event-driven, pub-sub, ETL and custom software solutions.**
+
+**Software Developer with experience in automating and improving core business processes and development of custom software solutions.**
+
 
 **Passionate about learning things, understanding complex systems, and designing and developing efficient and resilient solutions for complex business needs.**
   
