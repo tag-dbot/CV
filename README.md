@@ -160,7 +160,8 @@ You can contact me at tag_dbot@proton.me
 - Fintech (1 year)
 
 
-### Completed certifications
+### Completed certifications and training
+- Leadership training
 - Nonviolent communication
 - Conscious communication
 - AZ204 - Azure Developer Associate
