@@ -14,6 +14,7 @@
   
 **Main interests are:**
 - Solution Architecture
+- Team Leadership
 - Software Development
 - Cybersecurity & Cryptography
 - Mathematics & Algorithmics
