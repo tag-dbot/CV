@@ -47,7 +47,9 @@ You can contact me at tag_dbot@proton.me
   - Designed, developed, documented, gave support to, and maintained an authentication/authorization SDK used internally by teams to add SAML Authnz flows to internal applications, accelerating the adoption of the new authentication system.
   - Designed a major migration and replatforming of the legacy on-prem image distribution network to a new cloud-based solution, improving performance and simplifying the existing flow.
   - Led small development teams in multiple projects.
-  - Advocated for and helped the improvement of observability, traceability, and logging across multiple teams, by creating code accelerators, guidelines, knowledge sharing and mentoring. 
+  - Advocated for and helped the improvement of observability, traceability, and logging across multiple teams, by creating code accelerators, guidelines, knowledge sharing and mentoring.
+  - Advocated for and helped the improvement of application resilience across multiple teams, by creating code accelerators, guidelines, knowledge sharing and mentoring. 
+
 - At my current employer:
   - Part of the core Technical Area, helping shape the company's technical vision, reporting to the CTO.
   - Created and led a small CyberSecurity team, creating secure processes and guidelines for the entire company to follow.
