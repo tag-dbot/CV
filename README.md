@@ -5,7 +5,7 @@
 
 **Tech Lead with experience in leading development teams through challenging projects, defining the technical vision and leading by example**
 
-**Solutions Architect with experience in designing complex event-driven, pub-sub, ETL and custom software solutions.**
+**Solutions Architect with experience in designing solutions for multiple complex event-driven, pub-sub, messaging, microservices, ETL, and custom scenarios.**
 
 **Software Developer with experience in automating and improving core business processes and development of custom software solutions.**
 
