@@ -3,7 +3,7 @@
 
 **Curious tinkerer, with a knack for finding bugs.**
 
-**Tech Lead with experience in leading development teams through challenging projects, sharing a common technical vision and leading by example**
+**Tech Lead with experience in leading development teams through challenging projects, defining the technical vision and leading by example**
 
 **Solutions Architect with experience in designing complex event-driven, pub-sub, ETL and custom software solutions.**
 
