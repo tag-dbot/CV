@@ -105,11 +105,7 @@ You can contact me at tag_dbot@proton.me
   - Designed, developed, documented, gave support to, and maintained an authentication/authorization SDK used internally by teams to add SAML Authnz flows to internal applications, accelerating the adoption of the new authentication system.
   - Designed a major migration and replatforming of the legacy on-prem image distribution network to a new cloud-based solution, improving performance and simplifying the existing flow.
   - Designed, led the development of, and was effectively the product-owner of an internal Middleware-as-a-Service solution, that acted as a bridge between different services and was responsible for ensuring resilient and scalable communications, by offering strong resilience, scalability, monitoring, and troubleshooting features and guarantees.
-    - This solution provides high-availability, via multiple instances across multiple machines across multiple datacenters and multiple Cloud Providers.
-    - This solution provides "Resilience as a Service", and simplifies integration between different services and platforms, supporting multiple communication protocols like HTTP, gRPC, AMQP and enabling cross-protocol and cross-platform communication.
-    - This solution enables several messaging and pub-sub integration patterns and scenarios, such as fan-out/fan-in, highly parallel processing via competing consumers, guaranteed delivery, dead-lettering, dynamic and runtime-configurable routing, retry mechanisms for handling flaky systems and communication channels, etc.
-    - This solution was used as an alternative to market solutions, and supported the core asynchronous flows that handle the core business processes like Orders and Payments integration.
-    - This solution enabled us to perform multiple zero-downtime deployments, rollouts/phaseouts, recover from multiple service failures by reprocessing and replaying messages and to have an end-to-end overview of the communication flows between different services via distributed tracing and distributed correlation.
+    - [More details here](#Middleware-as-a-Service)
   - Led small development teams in multiple smaller projects.
   - Advocated for and helped the improvement of observability, traceability, and logging across multiple teams, by creating code accelerators, guidelines, knowledge sharing and mentoring.
   - Advocated for and helped the improvement of application resilience across multiple teams, by creating code accelerators, guidelines, knowledge sharing and mentoring. 
@@ -207,12 +203,8 @@ You can contact me at tag_dbot@proton.me
     - This service was built on short-notice to act as a stop-gap measure, but ended up being installed in multiple machines and was essencial to monitoring the issue across the entire ecosystem. 
   - Designed a major migration and replatforming of the legacy on-prem image distribution network to a new cloud-based solution, improving performance and simplifying the existing flow.
   - Designed, led the development of, and was effectively the product-owner of an internal Middleware-as-a-Service solution, that acted as a bridge between different services and was responsible for ensuring resilient and scalable communications, by offering strong resilience, scalability, monitoring, and troubleshooting features and guarantees.
-    - This solution provides high-availability, via multiple instances across multiple machines across multiple datacenters and multiple Cloud Providers.
-    - This solution provides "Resilience as a Service", and simplifies integration between different services and platforms, supporting multiple communication protocols like HTTP, gRPC, AMQP and enabling cross-protocol and cross-platform communication.
-    - This solution enables several messaging and pub-sub integration patterns and scenarios, such as fan-out/fan-in, highly parallel processing via competing consumers, guaranteed delivery, dead-lettering, dynamic and runtime-configurable routing, retry mechanisms for handling flaky systems and communication channels, etc.
-    - This solution was used as an alternative to market solutions, and supported the core asynchronous flows that handle the core business processes like Orders and Payments integration.
-    - This solution enabled us to perform multiple zero-downtime deployments, rollouts/phaseouts, recover from multiple service failures by reprocessing and replaying messages and to have an end-to-end overview of the communication flows between different services via distributed tracing and distributed correlation.
-  - Led small development teams in multiple projects.
+    - [More details here](#Middleware-as-a-Service)
+- Led small development teams in multiple projects.
   - Advocated for and helped the improvement of observability, traceability, and logging across multiple teams, by creating code accelerators, guidelines, knowledge sharing and mentoring.
   - Advocated for and helped the improvement of application resilience across multiple teams, by creating code accelerators, guidelines, knowledge sharing and mentoring. 
 
@@ -222,5 +214,14 @@ You can contact me at tag_dbot@proton.me
   - Created and led a small CyberSecurity team, creating secure processes and guidelines for the entire company to follow.
   - Mentored multiple colleagues, helping them grow to a more senior position.
   - Designed an event driven near-real-time cybersecurity vulnerability monitoring and alert system, designed to alert users of new vulnerabilities (registered in cve.mitre, nist, or other sources) that match user-defined filters (affected technology, minimum severity, etc.).
+
+### Details about some things I've done
+#### Middleware-as-a-Service
+  - This solution provides high-availability, via multiple instances across multiple machines across multiple datacenters and multiple Cloud Providers.
+  - This solution provides "Resilience as a Service", and simplifies integration between different services and platforms, supporting multiple communication protocols like HTTP, gRPC, AMQP and enabling cross-protocol and cross-platform communication.
+  - This solution enables several messaging and pub-sub integration patterns and scenarios, such as fan-out/fan-in, highly parallel processing via competing consumers, guaranteed delivery, dead-lettering, dynamic and runtime-configurable routing, retry mechanisms for handling flaky systems and communication channels, etc.
+  - This solution was used as an alternative to market solutions, and supported the core asynchronous flows that handle the core business processes like Orders and Payments integration.
+  - This solution enabled us to perform multiple zero-downtime deployments, rollouts/phaseouts, recover from multiple service failures by reprocessing and replaying messages and to have an end-to-end overview of the communication flows between different services via distributed tracing and distributed correlation.
+  
 
 
