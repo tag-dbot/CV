@@ -98,7 +98,7 @@ You can contact me at tag_dbot@proton.me
 [(Full list)](#other-impact-ive-had)
 - As a consultant at the largest portuguese eCommerce website (continente.pt, and also wells.pt and zu.pt):
 
-  - Lead developer, maintainer, and responsible for designing new features of the cloud-based Stock Management System, processing and generating over 4 million events daily, without major issues, since 2021.
+  - Lead developer, maintainer, and responsible for designing new features and architecture changes of the cloud-based Stock Management System, processing and generating over 4 million events daily, without major issues, since 2021.
 
   - Designed and helped the development of a major migration and replatforming of the legacy cloud-based system responsible for handling customer data, splitting its responsabilities in a new cloud-based microservices architecture, improving resiliency, performance, observability, and cutting operational expenditures by ~40%.
 
@@ -110,9 +110,7 @@ You can contact me at tag_dbot@proton.me
 
   - Designed, developed, documented, gave support to, and maintained an authentication/authorization SDK used internally by teams to add SAML Authnz flows to internal applications, accelerating the adoption of the new authentication system.
 
-  - Designed a major migration and replatforming of the legacy on-prem image distribution network to a new cloud-based solution, improving performance and simplifying the existing flow.
-
-  - Designed, led the development of, and was effectively the product-owner of an internal Middleware-as-a-Service solution, that acted as a bridge between different services and was responsible for ensuring resilient and scalable communications, by offering strong resilience, scalability, monitoring, and troubleshooting features and guarantees.
+  - Created, Designed, led the development of, and was effectively the product-owner of an internal Middleware-as-a-Service system, that acted as a bridge between different services and was responsible for ensuring resilient and scalable communications, by offering strong resilience, scalability, monitoring, and troubleshooting features and guarantees.
     - [More details here](#Middleware-as-a-Service)
 
   - Led small development teams in multiple smaller projects.
@@ -127,7 +125,7 @@ You can contact me at tag_dbot@proton.me
 
   - Part of the core Technical Area, helping shape the company's technical vision, reporting to the CTO.
 
-  - Created and led a small CyberSecurity team, creating secure processes and guidelines for the entire company to follow.
+  - Created and led a small CyberSecurity team, creating secure processes and guidelines for the entire company to follow, and starting the ISO 27001 implementation plan and processes.
 
   - Mentored multiple colleagues, helping them grow to a more senior position.
 
@@ -207,28 +205,47 @@ You can contact me at tag_dbot@proton.me
 
 ### Other impact I've had
 - As a consultant at the largest portuguese eCommerce website (continente.pt, and also wells.pt and zu.pt):
+
   - Lead developer, maintainer, and responsible for designing new features of the cloud-based Stock Management System, processing and generating >3 million events daily, without major issues, since 2021. 
+
   - Helped develop and maintain the cloud-based system responsible for handling customer data, including but not limited to: consents, optins, profile, and billing information.
+
   - Designed and helped the development of a major migration and replatforming of the legacy cloud-based system referenced above, splitting its responsabilities in a new cloud-based microservices architecture, improving resiliency, performance, observability, and cutting operational expenditures by ~40%.
+
   - Designed and led the development of a major migration and replatforming of the legacy on-prem ETL system responsible for multiple core business flows, including but not limited to: order, payment, and invoice management; to a new on-prem/cloud hybrid microservices messaging based architecture, improving resiliency, performance, observability, and saving on all previous licensing costs (>500k€).
+
   - Designed and led the development of a major migration and replatforming of the legacy on-prem ETL system responsible for the processing of all product, price, and promotion data, to a new on-prem microservices based architecture improving resiliency, performance, observability, and saving on all previous licensing costs (>800k€).
+
   - Designed and led the development of a major migration and replatforming of a legacy API and ETL flow, responsible for processing, storing, and providing metrics related to customer's purchasing habits.
+
   - Designed, developed, documented, gave support to, and maintained a logging SDK used internally by multiple teams company-wide to send logs to an internal logging ingestion system, responsible for (at least) 70% (~17 million logs) of all daily logs in the logging system, accelerating the change to the new logging system.
+
   - Designed, developed, documented, gave support to, and maintained an authentication/authorization SDK used internally by teams to add SAML Authnz flows to internal applications, accelerating the adoption of the new authentication system.
+
   - Designed and developed a custom watchdog service, installed in our on-prem legacy systems, to collect metrics and data regarding issues like high memory usage, high cpu usage, clock drift, and other specific issues. These metrics and data were then sent to a centralized monitoring platform, to provide a system-wide view of the health of the systems.
     - This service was built on short-notice to act as a stop-gap measure, but ended up being installed in multiple machines and was essencial to monitoring the issue across the entire ecosystem. 
+
   - Designed a major migration and replatforming of the legacy on-prem image distribution network to a new cloud-based solution, improving performance and simplifying the existing flow.
+
   - Designed, led the development of, and was effectively the product-owner of an internal Middleware-as-a-Service solution, that acted as a bridge between different services and was responsible for ensuring resilient and scalable communications, by offering strong resilience, scalability, monitoring, and troubleshooting features and guarantees.
     - [More details here](#Middleware-as-a-Service)
-- Led small development teams in multiple projects.
+
+  - Led small development teams in multiple projects.
+
   - Advocated for and helped the improvement of observability, traceability, and logging across multiple teams, by creating code accelerators, guidelines, knowledge sharing and mentoring.
+
   - Advocated for and helped the improvement of application resilience across multiple teams, by creating code accelerators, guidelines, knowledge sharing and mentoring. 
 
 - At my current employer:
+
   - Led the organization of a company-wide hackathon, that brought people to work together as teams to achieve a common challenge, and led to the creation of multiple projects and iniciatives. 
+
   - Part of the core Technical Area, helping shape the company's technical vision, reporting to the CTO.
-  - Created and led a small CyberSecurity team, creating secure processes and guidelines for the entire company to follow.
+
+  - Created and led a small CyberSecurity team, creating secure processes and guidelines for the entire company to follow, and starting the ISO 27001 implementation plan and processes.
+
   - Mentored multiple colleagues, helping them grow to a more senior position.
+
   - Designed an event driven near-real-time cybersecurity vulnerability monitoring and alert system, designed to alert users of new vulnerabilities (registered in cve.mitre, nist, or other sources) that match user-defined filters (affected technology, minimum severity, etc.).
 
 ### Details about some things I've done
