@@ -39,7 +39,7 @@ You can contact me at tag_dbot@proton.me
 - Advocate for good software development, resilience, logging, and observability practices
 
 
-### Technologies I work the most with. [(Click here for a more detailed list)]([url](https://github.com/tag-dbot/CV/blob/main/README.md#languages-and-frameworks-ive-worked-with))
+### Technologies I work the most with. [Click here for a more detailed list]((https://github.com/tag-dbot/CV/blob/main/README.md#languages-and-frameworks-ive-worked-with))
 - .NET C# (multiple versions, from .NET Framework to .NET 8)
 - ASP.NET C# (multiple versions)
 - Relational Databases (PostgreSQL, T-SQL)
