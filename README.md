@@ -39,7 +39,7 @@ You can contact me at tag_dbot@proton.me
 - Advocate for good software development, resilience, logging, and observability practices
 
 
-### Technologies I work the most with. (Check below for a more detailed list of technologies I've worked with)
+### Technologies I work the most with. [(Click here for a more detailed list)]([url](https://github.com/tag-dbot/CV/blob/main/README.md#languages-and-frameworks-ive-worked-with))
 - .NET C# (multiple versions, from .NET Framework to .NET 8)
 - ASP.NET C# (multiple versions)
 - Relational Databases (PostgreSQL, T-SQL)
@@ -93,7 +93,7 @@ You can contact me at tag_dbot@proton.me
 - Creating simple solutions for complex problems
 
 
-### Highest impact I've had (check below for a more detailed list of impact I've had)
+### Highest impact I've had [(click here for a more detailed list)]([url](https://github.com/tag-dbot/CV/blob/main/README.md#other-impact-ive-had))
 - As a consultant at the largest portuguese eCommerce website (continente.pt, and also wells.pt and zu.pt):
   - Lead developer, maintainer, and responsible for designing new features of the cloud-based Stock Management System, processing and generating over 4 million events daily, without major issues, since 2021. 
   - Designed and helped the development of a major migration and replatforming of the legacy cloud-based system responsible for handling customer data, splitting its responsabilities in a new cloud-based microservices architecture, improving resiliency, performance, observability, and cutting operational expenditures by ~40%.
