@@ -120,7 +120,7 @@ You can contact me at tag_dbot@proton.me
   - Advocated for and helped the improvement of application resilience across multiple teams, by creating code accelerators, guidelines, knowledge sharing and mentoring.
 
   - Developed and was effectively the product-owner of multiple internal SDKs.
-    - [More details here](#Internal SDKs) 
+    - [More details here](#internal-sdks) 
 
 - At my current employer:
 
@@ -234,7 +234,7 @@ You can contact me at tag_dbot@proton.me
     - [More details here](#Middleware-as-a-Service)
 
   - Developed and was effectively the product-owner of multiple internal SDKs.
-    - [More details here](#Internal SDKs) 
+    - [More details here](#internal-sdks) 
   
   - Led small development teams in multiple projects.
 
