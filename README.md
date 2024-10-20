@@ -100,11 +100,11 @@ You can contact me at tag_dbot@proton.me
 
   - Lead developer, maintainer, and responsible for designing new features and architecture changes of the cloud-based Stock Management System, processing and generating over 4 million events daily, without major issues, since 2021.
 
-  - Designed and helped the development of a major migration and replatforming of the legacy cloud-based system responsible for handling customer data, splitting its responsabilities in a new cloud-based microservices architecture, improving resiliency, performance, observability, and cutting operational expenditures by ~40%.
+  - Designed and helped the development of a major migration and replatforming of the legacy cloud-based system responsible for handling customer data, splitting its responsabilities in a new cloud-based microservices architecture, improving resiliency, performance, observability, and cutting operational expenditures by ~40%/year.
 
-  - Designed and led the development of a major migration and replatforming of the legacy on-prem ETL system responsible for multiple core business flows, including but not limited to: order, payment, and invoice management; to a new on-prem/cloud hybrid microservices messaging based architecture, improving resiliency, performance, observability, and saving on all previous licensing costs (>500k€).
+  - Designed and led the development of a major migration and replatforming of the legacy on-prem ETL system responsible for multiple core business flows, including but not limited to: order, payment, and invoice management; to a new on-prem/cloud hybrid microservices messaging based architecture, improving resiliency, performance, observability, and saving on all previous licensing costs (>500k€/year).
 
-  - Designed and led the development of a major migration and replatforming of the legacy on-prem ETL system responsible for the processing of all product, price, and promotion data, to a new on-prem microservices based architecture improving resiliency, performance, observability, and saving on all previous licensing costs (>800k€).
+  - Designed and led the development of a major migration and replatforming of the legacy on-prem ETL system responsible for the processing of all product, price, and promotion data, to a new on-prem microservices based architecture improving resiliency, performance, observability, and saving on all previous licensing costs (>800k€/year).
 
   - Designed, developed, documented, gave support to, and maintained a logging SDK used internally by multiple teams company-wide to send logs to an internal logging ingestion system, responsible for (at least) 70% (~17 million logs) of all daily logs in the logging system, accelerating the change to the new logging system.
 
@@ -117,7 +117,10 @@ You can contact me at tag_dbot@proton.me
 
   - Advocated for and helped the improvement of observability, traceability, and logging across multiple teams, by creating code accelerators, guidelines, knowledge sharing and mentoring.
 
-  - Advocated for and helped the improvement of application resilience across multiple teams, by creating code accelerators, guidelines, knowledge sharing and mentoring. 
+  - Advocated for and helped the improvement of application resilience across multiple teams, by creating code accelerators, guidelines, knowledge sharing and mentoring.
+
+  - Developed and was effectively the product-owner of multiple internal SDKs.
+    - [More details here](#Internal SDKs) 
 
 - At my current employer:
 
@@ -230,6 +233,9 @@ You can contact me at tag_dbot@proton.me
   - Designed, led the development of, and was effectively the product-owner of an internal Middleware-as-a-Service solution, that acted as a bridge between different services and was responsible for ensuring resilient and scalable communications, by offering strong resilience, scalability, monitoring, and troubleshooting features and guarantees.
     - [More details here](#Middleware-as-a-Service)
 
+  - Developed and was effectively the product-owner of multiple internal SDKs.
+    - [More details here](#Internal SDKs) 
+  
   - Led small development teams in multiple projects.
 
   - Advocated for and helped the improvement of observability, traceability, and logging across multiple teams, by creating code accelerators, guidelines, knowledge sharing and mentoring.
@@ -258,6 +264,19 @@ It enables several messaging and pub-sub integration patterns and scenarios, suc
 This MWaaS was used as an alternative to market solutions, and supported the core asynchronous flows that handle the core business processes like Orders and Payments integration.
 
 Leveraging the high-availability and highly-parallel architecture, this MWaaS enabled us to perform multiple zero-downtime deployments, rollouts/phaseouts, recover from multiple service failures by reprocessing and replaying messages and to have an end-to-end overview of the communication flows between different services via distributed tracing and distributed correlation.
-  
+
+
+#### Internal SDKs
+- These SDKS were initially used by my team, and later shared with multiple teams company wide.
+
+- These SDKs provided powerful out-of-the-box features, and were built to reduce code duplication, improve the base-line quality and resilience of our systems, and improve developer efficiency by being plug&play with the existing applications. These features include but are not limited to:
+
+  - Advanced logging features like runtime-changeable log levels, runtime-toggleable troubleshoot logs, automated metric collection and code instrumentation
+
+  - Advanced health-check features, used later to build dashboards with system-wide view with almost no effort to the teams.
+
+  - Advanced resilience features, with standardized retry mechanisms, error and exception handling
+
+  - Advanced troubleshooting features, with standardized end-to-end correlation, distributed tracing, enriched logs and traces, and runtime-toggleable troubleshooting and diagnostic checks.
 
 
