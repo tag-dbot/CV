@@ -97,7 +97,7 @@ You can contact me at tag_dbot@proton.me
 ### Highest impact I've had 
 [(Full list)](#other-impact-ive-had)
 - As a consultant at the largest portuguese eCommerce website (continente.pt, and also wells.pt and zu.pt):
-  - Lead developer, maintainer, and responsible for designing new features of the cloud-based Stock Management System, processing and generating over 4 million events daily, without major issues, since 2021. 
+  - Lead developer, maintainer, and responsible for designing new features of the cloud-based Stock Management System, processing and generating over 4 million events daily, without major issues, since 2021.
   - Designed and helped the development of a major migration and replatforming of the legacy cloud-based system responsible for handling customer data, splitting its responsabilities in a new cloud-based microservices architecture, improving resiliency, performance, observability, and cutting operational expenditures by ~40%.
   - Designed and led the development of a major migration and replatforming of the legacy on-prem ETL system responsible for multiple core business flows, including but not limited to: order, payment, and invoice management; to a new on-prem/cloud hybrid microservices messaging based architecture, improving resiliency, performance, observability, and saving on all previous licensing costs (>500k€).
   - Designed and led the development of a major migration and replatforming of the legacy on-prem ETL system responsible for the processing of all product, price, and promotion data, to a new on-prem microservices based architecture improving resiliency, performance, observability, and saving on all previous licensing costs (>800k€).
@@ -217,11 +217,14 @@ You can contact me at tag_dbot@proton.me
 
 ### Details about some things I've done
 #### Middleware-as-a-Service
-  - This solution provides high-availability, via multiple instances across multiple machines across multiple datacenters and multiple Cloud Providers.
-  - This solution provides "Resilience as a Service", and simplifies integration between different services and platforms, supporting multiple communication protocols like HTTP, gRPC, AMQP and enabling cross-protocol and cross-platform communication.
-  - This solution enables several messaging and pub-sub integration patterns and scenarios, such as fan-out/fan-in, highly parallel processing via competing consumers, guaranteed delivery, dead-lettering, dynamic and runtime-configurable routing, retry mechanisms for handling flaky systems and communication channels, etc.
-  - This solution was used as an alternative to market solutions, and supported the core asynchronous flows that handle the core business processes like Orders and Payments integration.
-  - This solution enabled us to perform multiple zero-downtime deployments, rollouts/phaseouts, recover from multiple service failures by reprocessing and replaying messages and to have an end-to-end overview of the communication flows between different services via distributed tracing and distributed correlation.
+
+The Middleware-as-a-Service was built as a replacement for Microsoft Biztalk, and was built to provide the backbone of asynchronous communications, orchestration and business logic that support the core business flows.
+It provides high-availability, by supporting multiple instances across multiple machines across multiple datacenters or Cloud Providers, leveraging the native Clustering and High-Availability features from RabbitMQ for the Messaging Layer, and the Competing-Consumers integration pattern to support the Orchestration layer.
+It provides "Resilience as a Service", and simplifies integration between different services and platforms, supporting multiple communication protocols like HTTP, gRPC, AMQP and enabling cross-protocol and cross-platform communication.
+It enables several messaging and pub-sub integration patterns and scenarios, such as fan-out/fan-in, highly parallel processing via competing consumers, guaranteed delivery, dead-lettering, dynamic and runtime-configurable routing, retry mechanisms for handling flaky systems and communication channels, etc.
+This MWaaS was used as an alternative to market solutions, and supported the core asynchronous flows that handle the core business processes like Orders and Payments integration.
+
+Leveraging the high-availability and highly-parallel architecture, this MWaaS enabled us to perform multiple zero-downtime deployments, rollouts/phaseouts, recover from multiple service failures by reprocessing and replaying messages and to have an end-to-end overview of the communication flows between different services via distributed tracing and distributed correlation.
   
 
 
