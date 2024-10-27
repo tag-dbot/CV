@@ -62,8 +62,6 @@ You can contact me at tag_dbot@proton.me
 
 
 ### Things I've done
-- Salesforce Commerce Cloud Integration
-- Salesforce Marketing Cloud Integration
 - Leadership of small development teams
 - Leadership of a small cybersecurity team
 - Stock Management Systems design, development and maintenance
@@ -82,6 +80,9 @@ You can contact me at tag_dbot@proton.me
 - Designed and developed multiple background jobs (.NET stack)
 - Agile/Scrum
 - CI/CD flows
+- Salesforce Commerce Cloud Integration
+- Salesforce Order Management Integration
+- Salesforce Marketing Cloud Integration
 
 
 ### Things I like doing
